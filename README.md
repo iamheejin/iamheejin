@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-매너리즘에 빠진건가?
+~~매너리즘에 빠진건가?~~
+더 발전하자
 
 <!---
 iamheejin/iamheejin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
