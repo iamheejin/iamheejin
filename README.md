@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-더 발전하자
+적당한 걱정
+적당한 불안
+적당한 기대
+적당한 만족
 
 <!---
 iamheejin/iamheejin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
